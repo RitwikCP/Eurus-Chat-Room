@@ -18,7 +18,7 @@ This repository, in particular, contains all the files created as part of my sub
 To create a chat room application using Java that uses Transmission Contro Protocol. Here, clients can connect exchange messages within a server with all the clients connected to that server. 
 
 ## MOTIVATION
-This was created as part of my "Core Java Programming" course in the first semester of my collge. The project was completed within seven days and aimed to showcase the skill set of coding that was developed throughout the semester. The minimum criteria of the mini-project for all students was that it must use TCP. This made me think of Group Chat as one particular application that can be implemented.
+This was created as part of my "Core Java Programming" course in the first semester of my college. The project was completed within seven days and aimed to showcase the skill set of coding that was developed throughout the semester. The minimum criteria of the mini-project for all students was that it must use TCP. This made me think of Group Chat as one particular application that can be implemented.
 
 ## FEATURES OF EURUS
 Eurus is an example of Multithread Socket Programming using JavaFX and has the following features:
