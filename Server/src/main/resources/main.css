@@ -1,0 +1,13 @@
+.clients_list_view{
+    -fx-background-color : linear-gradient(to bottom right,orange, white,pink);
+}
+.server-CHAT{
+    -fx-background-color: black;
+
+        -fx-font-weight: bold;
+        -fx-font-family: Consolas;
+        -fx-font-size: 10px;
+}
+.root{
+-fx-background-color: linear-gradient(to bottom right,b135b1 ,fece6c ,f25544);
+}
