@@ -12,13 +12,13 @@ The users in a particular chat room are usually connected via a shared internet 
 
 This repository, in particular, contains all the files created as part of my submission of a mini-project for the Core Java Programming course in my college. Working on this made me confident in using IntelliJ and allowed me to implement concepts like OOPs, multithreading, etc., and socket programming techniques I learned throughout the semester. Java is a powerful programming language, and this project undoubtedly gives all beginners a taste of its capabilities. 
 
-### OBJECTIVE
+## OBJECTIVE
 To create a chat room application using Java that uses Transmission Contro Protocol. Here, clients can connect exchange messages within a server with all the clients connected to that server. 
 
-### MOTIVATION
+## MOTIVATION
 This was created as part of my "Core Java Programming" course in the first semester of my collge. The project was completed within seven days and aimed to showcase the skill set of coding that was developed throughout the semester. The minimum criteria of the mini-project for all students was that it must use TCP. This made me think of Group Chat as one particular application that can be implemented.
 
-### FEATURES OF EURUS
+## FEATURES OF EURUS
 Eurus is an example of Multithread Socket Programming using JavaFX and has the following features:
 1. There are two files. One for Client and one for Server. The Server one takes one parameter (a port number) and the Client one takes two parameters (an IP address, a port number).
 2. A client enters a username before the interface for Eurus is displayed.
@@ -29,10 +29,10 @@ Eurus is an example of Multithread Socket Programming using JavaFX and has the f
 7. A client disconnects when he/she enters "bye" [case ignored].
 8. When a client enters “All Users”, the server needs to send all active clients to that client.
 
-### WORKING OF EURUS
+## WORKING OF EURUS
 The working has been clearly explained in the code through comments. One is encouraged to go through the comments in order to get an idea of the working of Eurus.
 
-### SCREENSHOTS OF ENDPRODUCT
+## SCREENSHOTS OF ENDPRODUCT
 
 
 #### Eurus Server
@@ -60,10 +60,10 @@ The working has been clearly explained in the code through comments. One is enco
 <img width="838" alt="Screenshot 2022-12-25 at 12 54 40 AM" src="https://user-images.githubusercontent.com/94697656/209456765-50c34b5f-3201-4bd1-a719-bf29b3366d33.png">
 
 
-### TECH/FRAMEWORK USED
+## TECH/FRAMEWORK USED
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-### CREDITS
+## CREDITS
 The project was inspired by the following sources:
 1. [Group Chat Application Project using Socket Programming in Java](https://www.codewithmurad.com/2020/10/group-chatting-application.html)
 2. Luisgcenci (A Medium author)
