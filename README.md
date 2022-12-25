@@ -35,27 +35,27 @@ The working has been clearly explained in the code through comments. One is enco
 ## SCREENSHOTS OF ENDPRODUCT
 
 
-#### Eurus Server
+### Eurus Server
 ------------------------------------------------------------------------
 <img width="705" alt="Screenshot 2022-12-24 at 11 33 40 PM" src="https://user-images.githubusercontent.com/94697656/209456757-515bf178-b4cb-4a43-88c4-0beeedfd626a.png">
 
 
-#### Entering Username
+### Entering Username
 ------------------------------------------------------------------------
 <img width="502" alt="Screenshot 2022-12-24 at 11 34 15 PM" src="https://user-images.githubusercontent.com/94697656/209456759-7f1a00ae-63d2-426b-b8a8-42050ec7f1ad.png">
 
 
-#### Emojis
+### Emojis
 ------------------------------------------------------------------------
 <img width="850" alt="Screenshot 2022-12-25 at 12 44 53 AM" src="https://user-images.githubusercontent.com/94697656/209456760-cbb75964-9c18-41c9-8a93-80e45992859c.png">
 
 
-#### Server Keeping Track Of All Messages
+### Server Keeping Track Of All Messages
 ------------------------------------------------------------------------
 <img width="544" alt="Screenshot 2022-12-25 at 12 54 06 AM" src="https://user-images.githubusercontent.com/94697656/209456761-3276c10a-ea04-4f8c-838b-8512d8c2a57d.png">
 
 
-#### Client Interface
+### Client Interface
 ------------------------------------------------------------------------
 <img width="838" alt="Screenshot 2022-12-25 at 12 54 40 AM" src="https://user-images.githubusercontent.com/94697656/209456765-50c34b5f-3201-4bd1-a719-bf29b3366d33.png">
 
