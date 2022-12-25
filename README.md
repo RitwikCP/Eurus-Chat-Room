@@ -1,5 +1,7 @@
 ![zyro-image (12)](https://user-images.githubusercontent.com/94697656/209456476-d3378876-dd17-47c7-81e2-765ab42006f3.png)
 
+*Work in progress: The next update will add end-to-end encryption for a secure transfer of messages.*
+
 # Eurus-Chat-Room
 A project made as part of the "Core Java Programming" course during my first semester in college.
 
