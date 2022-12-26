@@ -15,7 +15,7 @@ The users in a particular chat room are usually connected via a shared internet 
 This repository, in particular, contains all the files created as part of my submission of a mini-project for the Core Java Programming course in my college. Working on this made me confident in using IntelliJ and allowed me to implement concepts like OOPs, multithreading, etc., and socket programming techniques I learned throughout the semester. Java is a powerful programming language, and this project undoubtedly gives all beginners a taste of its capabilities. 
 
 ## OBJECTIVE
-To create a chat room application using Java that uses Transmission Contro Protocol. Here, clients can connect exchange messages within a server with all the clients connected to that server. 
+To create a chat room application using Java that uses Transmission Control Protocol. Here, clients can connect and exchange messages within a server with all the clients connected to that server. 
 
 ## MOTIVATION
 This was created as part of my "Core Java Programming" course in the first semester of my college. The project was completed within seven days and aimed to showcase the skill set of coding that was developed throughout the semester. The minimum criteria of the mini-project for all students was that it must use TCP. This made me think of Group Chat as one particular application that can be implemented.
